@@ -1,16 +1,17 @@
-# note_project
+# Note Application
 
-A new Flutter project.
+**Note** is a basic Flutter application that allows users to create, update, delete, and view notes locally. The app uses **SQLite** for offline data storage, making it lightweight and efficient for personal use.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Add new notes with a title and content.
+- Edit existing notes.
+- Delete notes when no longer needed.
+- View all notes in a simple, user-friendly interface.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- **Flutter**: For building the cross-platform mobile application.
+- **SQLite**: For local database storage and management.
